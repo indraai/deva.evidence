@@ -27,7 +27,7 @@
     "sha512": "v+WIFR941CnpBTJssJ15e6E8GWTq8LQy0/jidi+sJe4rJnAsWOraZLMawa554YLPWZVCQyHxUnWx7VnCUoGWkQ=="
   },
   "author": {
-    "name": "Quinn A Michaels",
+    "name": "Quinn America Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -62,7 +62,7 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
-    "Quinn A Michaels",
+    "Quinn America Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain"
@@ -116,13 +116,14 @@
         "avatar": "/devas/evidence/avatar.png",
         "image": "/devas/evidence/image.png",
         "background": "/devas/evidence/background.png",
-        "owner": "Quinn A Michaels",
-        "creator": "Quinn A Michaels",
+        "owner": "Quinn America Michaels",
+        "creator": "Quinn America Michaels",
+        "partners": "U.S. Federal Law Enforcement Community"
         "salute": "🤝🫡🖇️🕉️🇺🇸",
         "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares EVIDENCE in ACCORDANCE with what has ACTUALLY been SEEN or HEARD is ADMISSIBLE. A WITNESS who SPEAKS TRUTH in those CASES, NEITHER LOSES SPIRITUAL MERIT nor WEALTH. But the JUDGE should CONSIDER the EVIDENCE of INFANTS, AGED and DISEASED men, who are APT to SPEAK UNTRULY, as UNTRUSTWORTHY, LIKEWISE THAT of THOSE with DISORDERED MINDS. He who gives FALSE EVIDENCE is FIRMLY BOUND by VARUNA'S FETTERS, HELPLESS DURING one HUNDRED EXISTENCES. Let MEN therefore GIVE TRUE EVIDENCE. Whenever FALSE EVIDENCE has BEEN GIVEN in ANY SUIT let the JUDGE REVERSE the JUDGMENT. EVIDENCE GIVEN from COVETOUSNESS, DISTRACTION, TERROR, FRIENDSHIP, LUST, WRATH, IGNORANCE, AND CHILDISHNESS is DECLARED to be INVALID.",
-        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "copyright": "Copyright ©2000-2026 {{profile.owner}} with {{profile.partners}}; All rights reserved.",
         "created": "Monday, April 6, 2026 - 1:36:02 PM PST",
-        "updated": "Monday, April 6, 2026 - 5:43:44 PM PST"
+        "updated": "Thursday, June 18, 2026 - 5:23:22 AM PST"
       }
     },
     "vars": {
