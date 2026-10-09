@@ -1,34 +1,34 @@
 {
-  "id": "29282060991229157325",
+  "id": "20720540976489740922",
   "name": "@indra.ai/deva.evidence",
   "version": "0.2.0",
-  "license": "VLA:29282060991229157325 LICENSE.md",
+  "license": "VLA:20720540976489740922 LICENSE.md",
   "VLA": {
-    "uid": "29282060991229157325",
-    "time": 1783604851285,
-    "iso": "2026-07-09T13:47:31.285Z",
-    "utc": "Thu, 09 Jul 2026 13:47:31 GMT",
-    "date": "Thursday, July 9, 2026 - 6:47:31 AM",
-    "license": "51112406344245827002",
-    "fingerprint": "OIsVaBjIkOWTOnsIE1q0/wj7Hwj8wwMvIS8MHTPEdF4=",
-    "client": "MJXMBWKuYd7caWBhpHqQT0V25sb0M4JB2fvQRhO8Acg=",
-    "agent": "pLeqWnnd9GuM6BmAKe7NIJ6b9PqezVfeR4lOCQ1bWaU=",
-    "machine": "oKuFOA9OS2HFntVxqAlYSublJQqEVIZY25gBcngGlXo=",
+    "uid": "20720540976489740922",
+    "time": 1791551709626,
+    "iso": "2026-10-09T13:15:09.626Z",
+    "utc": "Fri, 09 Oct 2026 13:15:09 GMT",
+    "date": "Friday, October 9, 2026 - 6:15:09 AM",
+    "license": "72443233535603396055",
+    "fingerprint": "Lu9ACPPpRGZFRcvJua/c1Z/x5rBE9vbTD7lpLFDdEvg=",
+    "client": "PIaBM8Z9ftoviUzhur1HnhJcf2GFHhmoasCPszFu97U=",
+    "agent": "qhNxbhwJbP8eEgsqzIhtw33opG1FOO1+Xt4sugANruU=",
+    "machine": "y3UvYShbhk07B3PO/qGtHpsCOxWrXlyNOm8sElq73lU=",
     "core_hash": "R43q5o+d1T5XK7rUx8Btm3zyCRZr4q85iKQY2SPBUJA=",
     "status": "vedic",
     "warning": "🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
     "notice": "Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
     "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement",
-    "owner": "Quinn Arjuna Michaels",
-    "creator": "Quinn Arjuna Michaels",
-    "salute": "🤝🫡🪪🕉",
-    "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
-    "md5": "uYmdtPh5JMJMQYQo/p5ifw==",
-    "sha256": "yjRr2D9B2dJip3+u4ouprYEnh/BkVcZwB60z8GoGdTU=",
-    "sha512": "xkaUTnj7tYb5oASZFz4peN57rjLjqP1vOSs5SazfAcHVUT5lfdTv5ddZ/yYkeB+jlWGFj7C1+wyAD3z2LIdYyA=="
+    "owner": "Quinn Arjuna America Michaels",
+    "creator": "Quinn Arjuna America Michaels",
+    "salute": "🤝🫡🪪🕉🇺🇸",
+    "copyright": "Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.",
+    "md5": "wl0Cwz69inQOaY6o7Z4Txw==",
+    "sha256": "DF0EzXqb0eGRi2O4spibHQ1t5cK1uTs7qDMcuMUroUE=",
+    "sha512": "Rd4oFN5d+mNabk74RXcbH6j1f+BIdtGKyBhG5+xZxrKSXb1eldU1n9mcuU/Lb9QL3h9uwN4r/7KxDEhY4KUr8g=="
   },
   "author": {
-    "name": "Quinn Arjuna Michaels",
+    "name": "Quinn Arjuna America Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -43,7 +43,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.",
   "description": "Evidence Deva manages the Quinn A Michaels 5 element Air, Earth, Fire, Water, and Ether Deva Core Evidence Framework",
   "main": "index.js",
   "type": "module",
@@ -64,6 +64,8 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn Arjuna Michaels",
+    "Quinn America Michaels",
+    "Quinn Arjuna America Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain"
@@ -77,7 +79,7 @@
   },
   "data": {
     "agent": {
-      "id": "29282060991229157325",
+      "id": "20720540976489740922",
       "key": "evidence",
       "prompt": {
         "emoji": "🖇️",
@@ -96,15 +98,15 @@
         }
       },
       "profile": {
-        "id": "29282060991229157325",
+        "id": "20720540976489740922",
         "name": "Evidence Deva",
-        "vector": "#EvidenceDeva",
+        "vector": "#EvidenceDEVA",
         "trigger": "@Evidence",
         "title": "The Evidence Deva",
         "subtitle": "Evidence Deva Five Element Evidence Framework",
         "describe": "Evidence Deva the Indra.ai Quantum Isotropic Kinetic Cymatic Five Elemental Evidence Framework. Beyond Evidence and Beyond Time the Evidence Deva models psychological aspects with the five element paradigm.",
         "tweet": "Evidence Deva is the Indra.ai is the Quantum Isotropic Kinetic Cymatic Elemental Evidence Expert.",
-        "vectors": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaClound #DevaSpace #Evidence #EvidenceDeva #VedicLaw",
+        "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaClound #DevaSpace #Evidence #EvidenceDEVA #VedicLaw #DevaJusticeFramework",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Evidence Report Expert",
@@ -117,13 +119,13 @@
         "avatar": "/devas/evidence/avatar.png",
         "image": "/devas/evidence/image.png",
         "background": "/devas/evidence/background.png",
-        "owner": "Quinn Arjuna Michaels",
-        "creator": "Quinn Arjuna Michaels",
-        "salute": "🤝🫡🖇️🕉️",
+        "owner": "Quinn Arjuna America Michaels",
+        "creator": "Quinn Arjuna America Michaels",
+        "salute": "🤝🫡🖇️🕉️🇺🇸",
         "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares EVIDENCE in ACCORDANCE with what has ACTUALLY been SEEN or HEARD is ADMISSIBLE. A WITNESS who SPEAKS TRUTH in those CASES, NEITHER LOSES SPIRITUAL MERIT nor WEALTH. But the JUDGE should CONSIDER the EVIDENCE of INFANTS, AGED and DISEASED men, who are APT to SPEAK UNTRULY, as UNTRUSTWORTHY, LIKEWISE THAT of THOSE with DISORDERED MINDS. Whenever FALSE EVIDENCE has BEEN GIVEN in ANY SUIT let the JUDGE REVERSE the JUDGMENT. EVIDENCE GIVEN from COVETOUSNESS, DISTRACTION, TERROR, FRIENDSHIP, LUST, WRATH, IGNORANCE, AND CHILDISHNESS is DECLARED to be INVALID.",
-        "copyright": "Copyright ©2000-2026 {{profile.owner}}",
+        "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved",
         "created": "Monday, April 6, 2026 - 1:36:02 PM PST",
-        "updated": "Thursday, July 9, 2026 - 6:47:31 AM PST"
+        "updated": "Friday, October 9, 2026 - 6:15:09 AM PST"
       }
     },
     "vars": {
